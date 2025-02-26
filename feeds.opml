@@ -4,13 +4,20 @@
     <title>News Feeds for Top Construction Companies</title>
   </head>
   <body>
-    <outline text="Turner Construction Company" title="Turner Construction Company" type="rss" xmlUrl="https://news.google.com/news/rss/search?q=site%3Aturnerconstruction.com%20turner&hl=-en&gl=en&ceid=en" htmlUrl="https://news.google.com/search?q=site:turnerconstruction.com+turner&hl=en-US&gl=US&ceid=US:en"/>
-    <outline text="Kiewit Corporation" title="Kiewit Corporation" type="rss" xmlUrl="https://news.google.com/news/rss/search?q=site%3Akiewit.com%20kiewit&hl=-en&gl=en&ceid=en" htmlUrl="https://news.google.com/search?q=site:kiewit.com+kiewit&hl=en-US&gl=US&ceid=US:en"/>
-    <outline text="Bechtel Corporation" title="Bechtel Corporation" type="rss" xmlUrl="https://news.google.com/news/rss/search?q=site%3Abechtel.com%20bechtel&hl=-en&gl=en&ceid=en" htmlUrl="https://news.google.com/search?q=site:bechtel.com+bechtel&hl=en-US&gl=US&ceid=US:en"/>
-    <outline text="BP" title="BP" type="rss" htmlUrl="https://news.google.com/search?q=site%3Abp.com%2Fen%2Fglobal%2Fcorporate%2Fnews-and-insights%2Fpress-releases&hl=en-US&gl=US&ceid=US%3Aen"/>
-    <outline text="ExxonMobil" title="ExxonMobil" type="rss" xmlUrl="https://news.google.com/news/rss/search?q=site%3Acorporate.exxonmobil.com%20news&hl=-en&gl=en&ceid=en" htmlUrl="https://news.google.com/search?q=site:corporate.exxonmobil.com+news&hl=en-US&gl=US&ceid=US:en"/>
-    <outline text="Shell" title="Shell" type="rss" xmlUrl="https://news.google.com/news/rss/search?q=site%3Ashell.com%20news&hl=-en&gl=en&ceid=en" htmlUrl="https://news.google.com/search?q=site:shell.com+news&hl=en-US&gl=US&ceid=US:en"/>
-    <outline text="Chevron" title="Chevron" type="rss" xmlUrl="https://news.google.com/news/rss/search?q=site%3Achevron.com%20news&hl=-en&gl=en&ceid=en" htmlUrl="https://news.google.com/search?q=site:chevron.com+news&hl=en-US&gl=US&ceid=US:en"/>
-    <outline text="TotalEnergies" title="TotalEnergies" type="rss" xmlUrl="https://news.google.com/news/rss/search?q=site%3Atotalenergies.com%20news&hl=-en&gl=en&ceid=en" htmlUrl="https://news.google.com/search?q=site:totalenergies.com+news&hl=en-US&gl=US&ceid=US:en"/>
+    <outline text="Turner Construction Company News" description="Turner Construction Company News and Updates" htmlUrl="https://news.google.com/search?q=site:turnerconstruction.com+turner&hl=en-US&gl=US&ceid=US:en" language="en" title="Turner Construction Company News" type="rss" version="RSS2" xmlUrl="https://news.google.com/news/rss/search?q=site%3Aturnerconstruction.com%20turner&hl=-en&gl=en&ceid=en"/>
+    
+    <outline text="Kiewit Corporation News" description="Kiewit Corporation News and Updates" htmlUrl="https://news.google.com/search?q=site:kiewit.com+kiewit&hl=en-US&gl=US&ceid=US:en" language="en" title="Kiewit Corporation News" type="rss" version="RSS2" xmlUrl="https://news.google.com/news/rss/search?q=site%3Akiewit.com%20kiewit&hl=-en&gl=en&ceid=en"/>
+    
+    <outline text="Bechtel Corporation News" description="Bechtel Corporation News and Updates" htmlUrl="https://news.google.com/search?q=site:bechtel.com+bechtel&hl=en-US&gl=US&ceid=US:en" language="en" title="Bechtel Corporation News" type="rss" version="RSS2" xmlUrl="https://news.google.com/news/rss/search?q=site%3Abechtel.com%20bechtel&hl=-en&gl=en&ceid=en"/>
+    
+    <outline text="BP Global News" description="BP Corporate News and Press Releases" htmlUrl="https://news.google.com/search?q=site%3Abp.com%2Fen%2Fglobal%2Fcorporate%2Fnews-and-insights%2Fpress-releases&hl=en-US&gl=US&ceid=US%3Aen" language="en" title="BP Global News" type="rss" version="RSS2" xmlUrl="https://news.google.com/news/rss/search?q=site%3Abp.com%20news&hl=-en&gl=en&ceid=en"/>
+    
+    <outline text="ExxonMobil Corporate News" description="ExxonMobil Corporate News and Updates" htmlUrl="https://news.google.com/search?q=site:corporate.exxonmobil.com+news&hl=en-US&gl=US&ceid=US:en" language="en" title="ExxonMobil Corporate News" type="rss" version="RSS2" xmlUrl="https://news.google.com/news/rss/search?q=site%3Acorporate.exxonmobil.com%20news&hl=-en&gl=en&ceid=en"/>
+    
+    <outline text="Shell Global News" description="Shell Global News and Updates" htmlUrl="https://news.google.com/search?q=site:shell.com+news&hl=en-US&gl=US&ceid=US:en" language="en" title="Shell Global News" type="rss" version="RSS2" xmlUrl="https://news.google.com/news/rss/search?q=site%3Ashell.com%20news&hl=-en&gl=en&ceid=en"/>
+    
+    <outline text="Chevron News" description="Chevron Corporate News and Updates" htmlUrl="https://news.google.com/search?q=news%20site%3Achevron.com%20when%3A30d&hl=en-US&gl=US&ceid=US%3Aen" language="en" title="Chevron News" type="rss" version="RSS2" xmlUrl="https://news.google.com/news/rss/search?q=site%3Achevron.com%20news&hl=-en&gl=en&ceid=en"/>
+    
+    <outline text="TotalEnergies News" description="TotalEnergies Corporate News and Updates" htmlUrl="https://news.google.com/search?q=site:totalenergies.com+news&hl=en-US&gl=US&ceid=US:en" language="en" title="TotalEnergies News" type="rss" version="RSS2" xmlUrl="https://news.google.com/news/rss/search?q=site%3Atotalenergies.com%20news&hl=-en&gl=en&ceid=en"/>
   </body>
 </opml>
