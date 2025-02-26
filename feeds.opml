@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>News Feeds for Top Construction Companies</title>
+  </head>
+  <body>
+    <outline text="Turner Construction Company" title="Turner Construction Company" type="rss" xmlUrl="https://news.google.com/news/rss/search?q=site%3Aturnerconstruction.com%20turner&hl=-en&gl=en&ceid=en" htmlUrl="https://news.google.com/search?q=site:turnerconstruction.com+turner&hl=en-US&gl=US&ceid=US:en"/>
+    <outline text="Kiewit Corporation" title="Kiewit Corporation" type="rss" xmlUrl="https://news.google.com/news/rss/search?q=site%3Akiewit.com%20kiewit&hl=-en&gl=en&ceid=en" htmlUrl="https://news.google.com/search?q=site:kiewit.com+kiewit&hl=en-US&gl=US&ceid=US:en"/>
+    <outline text="Bechtel Corporation" title="Bechtel Corporation" type="rss" xmlUrl="https://news.google.com/news/rss/search?q=site%3Abechtel.com%20bechtel&hl=-en&gl=en&ceid=en" htmlUrl="https://news.google.com/search?q=site:bechtel.com+bechtel&hl=en-US&gl=US&ceid=US:en"/>
+    <outline text="" title="Baker Hughes" type="rss" xmlUrl="https://news.google.com/news/rss/search?q=site%3Awww.bakerhughes.com/company/news&hl=-en&gl=en&ceid=en" htmlUrl="https://news.google.com/search?q=site:www.bakerhughes.com/company/news&hl=en-US&gl=US&ceid=US:en"/>
+
+  </body>
+</opml>
